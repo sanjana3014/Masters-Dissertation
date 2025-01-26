@@ -10,4 +10,3 @@ This repository contains the code and documentation for my Master's dissertation
 - Integration of datasets and preparation for training and evaluation.
 - Custom CBAM-enhanced ResNet50 architecture for classification.
 - Visualization of Grad-CAM heatmaps for model interpretability.
-- Achieved ~98% test accuracy with minimal overfitting.
