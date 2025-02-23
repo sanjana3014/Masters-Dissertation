@@ -1,7 +1,7 @@
-# PCOS Detection Using CBAM-Enhanced ResNet50
+# Attention-Based Deep Learning for PCOS Classification Using Ultrasound Images
 
 ## Overview
-This repository contains the code and documentation for my Master's dissertation, titled **"Detection of Polycystic Ovarian Syndrome Using CBAM and ResNet50"**. The project focuses on accurately classifying PCOS and Non-PCOS ultrasound images using a deep learning-based approach enhanced with CBAM (Convolutional Block Attention Module).
+This repository contains the code and documentation for my Master's dissertation, titled **"Attention-Based Deep Learning for PCOS Classification Using Ultrasound Images"**. The project focuses on accurately classifying PCOS and Non-PCOS ultrasound images using a deep learning-based approach enhanced with CBAM (Convolutional Block Attention Module).
 
 ---
 
